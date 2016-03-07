@@ -14,7 +14,7 @@
       </transformation>
       <transformation>
          <name>preprocessFiles</name>
-         <args>addExp</args>
+         <args>addExp, expression</args>
       </transformation>
     </configuration>
 </configurationModel>
