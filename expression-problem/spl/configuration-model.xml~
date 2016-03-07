@@ -1,0 +1,16 @@
+<configurationModel>
+    <configuration>
+        <expression>expressionProblem</expression>
+        <transformation>
+            <name>selectAllComponents</name>
+	    <args>-</args>
+        </transformation>
+    </configuration>
+    <configuration>
+    <expression>prettyPrinter</expression>
+      <transformation>
+        <name>createBuildEntries</name>
+        <args>PP</args> 
+      </transformation>
+    </configuration>
+</configurationModel>
